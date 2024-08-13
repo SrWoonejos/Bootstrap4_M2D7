@@ -1,32 +1,13 @@
-# Bootstrap4_M2D7
-# Landing Page para [Tu Marca]
+Tu Viaje
+Este proyecto es una simple landing page con un formulario de registro diseñado con HTML y Bootstrap. El formulario permite a los usuarios ingresar sus datos personales y seleccionar una opción del servicio que desean solicitar.
 
-Este proyecto es una **landing page** diseñada para presentar los servicios de [Tu Marca], proporcionar información sobre la empresa, y facilitar el contacto con clientes potenciales a través de un diseño limpio, moderno y responsive.
+Descripción del Proyecto
+El proyecto consta de una página principal donde se encuentra un formulario de registro que captura los siguientes datos:
 
-## Tabla de Contenidos
-
-- [Descripción](#descripción)
-- [Tecnologías Utilizadas](#tecnologías-utilizadas)
-- [Estructura del Proyecto](#estructura-del-proyecto)
-- [Secciones de la Landing Page](#secciones-de-la-landing-page)
-- [Instrucciones de Uso](#instrucciones-de-uso)
-- [Personalización](#personalización)
-- [Contacto](#contacto)
-
-## Descripción
-
-La landing page ha sido desarrollada utilizando **HTML**, **Bootstrap**, y **CSS** para asegurar una experiencia de usuario fluida y responsiva. Incluye enlaces a las redes sociales, botones flotantes para acceso rápido a Instagram y WhatsApp, y secciones que destacan los servicios y la información clave de la empresa.
-
-## Tecnologías Utilizadas
-
-- **HTML5**: Estructura de la página.
-- **Bootstrap 5**: Framework CSS para un diseño responsivo y componentes predefinidos.
-- **CSS3**: Para la personalización y estilos específicos, incluyendo botones flotantes.
-
-## Estructura del Proyecto
-
-```plaintext
-├── index.html         # Archivo principal de la landing page
-├── styles.css         # Archivo de estilos personalizados
-└── README.md          # Documentación del proyecto
-
+Nombre: Primer nombre del usuario.
+Apellido: Apellido del usuario.
+Nombre de usuario: Un identificador único precedido por el símbolo @.
+Ciudad: Ciudad de residencia o lugar de operación del usuario.
+Motivo: El motivo de la solicitud, seleccionable entre opciones como "Depósito", "Giro" y "Consulta de Saldo".
+Preferencia de Respuesta: Opción para que el usuario seleccione si desea ver la respuesta en pantalla.
+Al completar y enviar el formulario, los datos son procesados y el usuario es redirigido a una página de confirmación (registrado.html).
